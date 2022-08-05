@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pakar Lagu</string>
+    <string name="tvPersonalityA">Bagaimana Kamu Mengerahkan dan Menerima Energi?</string>
+    <string name="tvPersonalityB">Bagaimana Kamu Mengambil Informasi?</string>
+    <string name="tvPersonalityC">Bagaimana Kamu Membuat Kesimpulan dan Mengambil Keputusan?</string>
+    <string name="tvPersonalityD">Bagaimana Kamu Menghadapi Dunia Luar?</string>
+    <string name="tvMood">Bagaimana Suasana Hatimu Saat Ini?</string>
+    <string name="cek_lagu">Cek Rekomendasi Lagu</string>
+    <string name="kepribadian">Kepribadianmu :</string>
+    <string name="rekomendasi_lagu">Rekomendasi Lagu :</string>
+    <string name="tentang">Tentang</string>
+</resources>
