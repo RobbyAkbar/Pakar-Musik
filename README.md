@@ -4,3 +4,9 @@ Lagu merupakan salah satu hiburan yang bisa dinikmati oleh seseorang baik dalam 
 
 Baca lengkap di artikel berikut:
 [Implementasi JIProlog pada Sistem Pakar Lagu Berbasis Android untuk Memberikan Rekomendasi Lagu Berdasarkan 16 Tipe Kepribadian Manusia](https://ejournal.upi.edu/index.php/SEICT/article/view/40217)
+
+Demo Aplikasi
+[![Watch the video](https://img.youtube.com/vi/yPnGZb0jClc/maxresdefault.jpg)](https://youtu.be/yPnGZb0jClc)
+
+Download Aplikasi di Play Store
+[Sistem Cerdas - Pakar Lagu](https://play.google.com/store/apps/details?id=edu.upi.pakarmusik)
